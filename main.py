@@ -1,23 +1,23 @@
-"""Snooze Button Roast — entry program (V3).
+"""Snooze Button Roast — entry program (V4, STRONGEST).
 
-Writes a single roast to entry.txt: at 6 a.m. on a Saturday the alarm
-screams like there is a flight to catch, when there is nowhere to be —
-it has watched the same sleep-in every Saturday for a year, and it
-rings anyway, proud of itself. The program enforces the bounty gate
-(one line, 1-200 characters, no leading or trailing whitespace) and
-verifies the write by reading the file back.
+Writes a single roast to entry.txt: at 6 a.m. on a Saturday the snooze
+button is hit, and the alarm comes back nine minutes later like
+nothing happened — no meeting, no flight, just a little plastic
+stalker who thinks the weekend is its shift. The program enforces the
+bounty gate (one line, 1-200 characters, no leading or trailing
+whitespace) and verifies the write by reading the file back.
 
-The joke is a scene with a witness: a time anchor (Saturday, 6 a.m.),
-a false emergency (a flight to catch), a year of evidence that the
-alarm has watched, and a final clause that gives the alarm a motive —
-it is proud of itself for ringing, and it will be proud again next
-Saturday.
+The joke is a scene with a callback: a time anchor (Saturday, 6 a.m.),
+a concrete number (nine minutes), a repeat offender that learns
+nothing, and a final clause that reframes the whole weekend as the
+alarm's shift — the roast lands on the snooze button itself, which is
+the bounty in the title, and the stalker never takes a day off.
 """
 
 import os
 import sys
 
-LINE = "Saturday, 6 a.m. My alarm screamed like I had a flight to catch. I had nowhere to be. It knew — it has watched me sleep in every Saturday for a year — and it rang anyway, proud of itself."
+LINE = "Saturday, 6 a.m. I hit snooze and my alarm came back nine minutes later like nothing happened. No meeting, no flight — just a little plastic stalker who thinks my weekend is its shift."
 
 MAX_CHARS = 200
 

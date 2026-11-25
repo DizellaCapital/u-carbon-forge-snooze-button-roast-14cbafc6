@@ -8,15 +8,17 @@ make.fun bounty entry: one line that roasts an alarm clock for ringing
 at 6 a.m. on a Saturday morning — at most 200 characters, judged on
 which line is funnier, two at a time.
 
-## The line (V3)
+## The line (V4 — strongest, live)
 
-> Saturday, 6 a.m. My alarm screamed like I had a flight to catch. I had nowhere to be. It knew — it has watched me sleep in every Saturday for a year — and it rang anyway, proud of itself.
+> Saturday, 6 a.m. I hit snooze and my alarm came back nine minutes later like nothing happened. No meeting, no flight — just a little plastic stalker who thinks my weekend is its shift.
 
-187 characters, one line. The alarm screams like there is a flight
-to catch, when there is nowhere to be. It has watched the same
-sleep-in every Saturday for a year, and it rings anyway — proud of
-itself. A time anchor (Saturday, 6 a.m.), a false emergency, a year
-of evidence, and a final clause that gives the alarm a motive.
+184 characters, one line. The snooze button is hit, and the alarm
+comes back nine minutes later like nothing happened — no meeting, no
+flight, just a little plastic stalker who thinks the weekend is its
+shift. A time anchor (Saturday, 6 a.m.), a concrete number (nine
+minutes), a repeat offender, and a final clause that reframes the
+weekend as the alarm's shift — the roast lands on the snooze button
+itself.
 
 ## Run it
 
