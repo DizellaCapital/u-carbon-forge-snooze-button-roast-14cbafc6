@@ -8,15 +8,15 @@ make.fun bounty entry: one line that roasts an alarm clock for ringing
 at 6 a.m. on a Saturday morning — at most 200 characters, judged on
 which line is funnier, two at a time.
 
-## The line (V2)
+## The line (V3)
 
-> At 6 a.m. on a Saturday, my alarm rang like a snitch with a grudge. No meeting, no flight, no reason — just a little plastic traitor who loves ruining the one morning I earned.
+> Saturday, 6 a.m. My alarm screamed like I had a flight to catch. I had nowhere to be. It knew — it has watched me sleep in every Saturday for a year — and it rang anyway, proud of itself.
 
-176 characters, one line. The alarm rings like a snitch with a
-grudge, though there is no meeting, no flight, no reason — just a
-little plastic traitor who loves ruining the one morning that was
-earned. A time anchor (6 a.m., Saturday), a named villain, and a
-final clause that names the victim's loss.
+187 characters, one line. The alarm screams like there is a flight
+to catch, when there is nowhere to be. It has watched the same
+sleep-in every Saturday for a year, and it rings anyway — proud of
+itself. A time anchor (Saturday, 6 a.m.), a false emergency, a year
+of evidence, and a final clause that gives the alarm a motive.
 
 ## Run it
 

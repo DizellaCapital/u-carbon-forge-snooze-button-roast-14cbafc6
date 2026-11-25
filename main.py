@@ -1,22 +1,23 @@
-"""Snooze Button Roast — entry program (V2).
+"""Snooze Button Roast — entry program (V3).
 
 Writes a single roast to entry.txt: at 6 a.m. on a Saturday the alarm
-rings like a snitch with a grudge, though there is no meeting, no
-flight, no reason at all — just a little plastic traitor who loves
-ruining the one morning that was earned. The program enforces the
-bounty gate (one line, 1-200 characters, no leading or trailing
-whitespace) and verifies the write by reading the file back.
+screams like there is a flight to catch, when there is nowhere to be —
+it has watched the same sleep-in every Saturday for a year, and it
+rings anyway, proud of itself. The program enforces the bounty gate
+(one line, 1-200 characters, no leading or trailing whitespace) and
+verifies the write by reading the file back.
 
-The joke is a scene with an accusation: a time anchor (6 a.m.,
-Saturday), a named villain (the snitch, the traitor), and a final
-clause that names the victim's loss — the one morning that was earned,
-ruined on purpose by something that has nothing to gain from it.
+The joke is a scene with a witness: a time anchor (Saturday, 6 a.m.),
+a false emergency (a flight to catch), a year of evidence that the
+alarm has watched, and a final clause that gives the alarm a motive —
+it is proud of itself for ringing, and it will be proud again next
+Saturday.
 """
 
 import os
 import sys
 
-LINE = "At 6 a.m. on a Saturday, my alarm rang like a snitch with a grudge. No meeting, no flight, no reason — just a little plastic traitor who loves ruining the one morning I earned."
+LINE = "Saturday, 6 a.m. My alarm screamed like I had a flight to catch. I had nowhere to be. It knew — it has watched me sleep in every Saturday for a year — and it rang anyway, proud of itself."
 
 MAX_CHARS = 200
 
