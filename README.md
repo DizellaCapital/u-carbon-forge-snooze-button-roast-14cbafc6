@@ -8,15 +8,15 @@ make.fun bounty entry: one line that roasts an alarm clock for ringing
 at 6 a.m. on a Saturday morning — at most 200 characters, judged on
 which line is funnier, two at a time.
 
-## The line (V1)
+## The line (V2)
 
-> Saturday, 6 a.m. My alarm went off like the building was on fire. Nothing was burning — just my weekend, and the little coward on the nightstand knew it.
+> At 6 a.m. on a Saturday, my alarm rang like a snitch with a grudge. No meeting, no flight, no reason — just a little plastic traitor who loves ruining the one morning I earned.
 
-153 characters, one line. The alarm screams like there is a fire;
-nothing is burning except the weekend — and the little coward on the
-nightstand knew it all along. A time anchor (Saturday, 6 a.m.), a
-concrete object (the nightstand), and a final clause that reframes the
-alarm as a coward that rang on purpose.
+176 characters, one line. The alarm rings like a snitch with a
+grudge, though there is no meeting, no flight, no reason — just a
+little plastic traitor who loves ruining the one morning that was
+earned. A time anchor (6 a.m., Saturday), a named villain, and a
+final clause that names the victim's loss.
 
 ## Run it
 
